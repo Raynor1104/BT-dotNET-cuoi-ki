@@ -1,0 +1,5 @@
+1,Gordon Freeman,1995-09-01,General,R&D,100
+2,John Price,1996-10-15,Captain,Infantry,95
+3,Steve Rogers,1918-04-07,Captain,Defender,100
+4,Big Boss,1987-01-01,General,Commander,99
+5,Sam Fisher,1957-08-02,Lieutenant,Commander,70

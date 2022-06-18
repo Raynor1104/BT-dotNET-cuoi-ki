@@ -1,0 +1,11 @@
+E:\Programing\.NET\Forms\Form Quân đội\bin\Debug\Form Quân đội.exe.config
+E:\Programing\.NET\Forms\Form Quân đội\bin\Debug\Form Quân đội.exe
+E:\Programing\.NET\Forms\Form Quân đội\bin\Debug\Form Quân đội.pdb
+E:\Programing\.NET\Forms\Form Quân đội\obj\Debug\Form Quân đội.csproj.AssemblyReference.cache
+E:\Programing\.NET\Forms\Form Quân đội\obj\Debug\Form Quân đội.csproj.SuggestedBindingRedirects.cache
+E:\Programing\.NET\Forms\Form Quân đội\obj\Debug\Form_Quân_đội.Properties.Resources.resources
+E:\Programing\.NET\Forms\Form Quân đội\obj\Debug\Form Quân đội.csproj.GenerateResource.cache
+E:\Programing\.NET\Forms\Form Quân đội\obj\Debug\Form Quân đội.csproj.CoreCompileInputs.cache
+E:\Programing\.NET\Forms\Form Quân đội\obj\Debug\Form Quân đội.exe
+E:\Programing\.NET\Forms\Form Quân đội\obj\Debug\Form Quân đội.pdb
+E:\Programing\.NET\Forms\Form Quân đội\obj\Debug\Form_Quân_đội.Menu.resources
